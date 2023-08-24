@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="MavenRunner">
-    <option name="environmentProperties">
-      <map>
-        <entry key="OPENAI_SECRET" value="OPENAI_SECRET=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" />
-      </map>
-    </option>
-  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
